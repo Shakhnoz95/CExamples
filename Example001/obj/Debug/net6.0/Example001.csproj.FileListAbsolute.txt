@@ -1,0 +1,15 @@
+D:\Обучение в GeekBrains\Examples\Example001\obj\Debug\net6.0\Example001.csproj.AssemblyReference.cache
+D:\Обучение в GeekBrains\Examples\Example001\obj\Debug\net6.0\Example001.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение в GeekBrains\Examples\Example001\obj\Debug\net6.0\Example001.AssemblyInfoInputs.cache
+D:\Обучение в GeekBrains\Examples\Example001\obj\Debug\net6.0\Example001.AssemblyInfo.cs
+D:\Обучение в GeekBrains\Examples\Example001\obj\Debug\net6.0\Example001.csproj.CoreCompileInputs.cache
+D:\Обучение в GeekBrains\Examples\Example001\bin\Debug\net6.0\Example001.exe
+D:\Обучение в GeekBrains\Examples\Example001\bin\Debug\net6.0\Example001.deps.json
+D:\Обучение в GeekBrains\Examples\Example001\bin\Debug\net6.0\Example001.runtimeconfig.json
+D:\Обучение в GeekBrains\Examples\Example001\bin\Debug\net6.0\Example001.dll
+D:\Обучение в GeekBrains\Examples\Example001\bin\Debug\net6.0\Example001.pdb
+D:\Обучение в GeekBrains\Examples\Example001\obj\Debug\net6.0\Example001.dll
+D:\Обучение в GeekBrains\Examples\Example001\obj\Debug\net6.0\refint\Example001.dll
+D:\Обучение в GeekBrains\Examples\Example001\obj\Debug\net6.0\Example001.pdb
+D:\Обучение в GeekBrains\Examples\Example001\obj\Debug\net6.0\Example001.genruntimeconfig.cache
+D:\Обучение в GeekBrains\Examples\Example001\obj\Debug\net6.0\ref\Example001.dll
